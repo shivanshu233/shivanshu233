@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivanshu233
+- 👋 Hi, I’m shivanshu mishra
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning c++
 
